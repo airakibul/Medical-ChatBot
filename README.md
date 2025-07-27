@@ -6,8 +6,6 @@ A smart medical chatbot powered by LangChain, OpenRouter, and modern NLP techniq
 
 ## 🚀 Features
 
-## 🚀 Features
-
 - 📚 Loads medical PDFs from the `data/` folder  
 - 🧠 Answers questions using document content  
 - 🔍 Retrieves relevant info via vector search (Pinecone)  
