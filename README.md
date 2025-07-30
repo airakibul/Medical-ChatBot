@@ -174,10 +174,9 @@ You are free to use, modify, and distribute this software with proper attributio
 
 ## Screenshots
 
-1. Frontend
+Frontend
 
 ![App Screenshot](https://github.com/airakibul/Medical-ChatBot/blob/main/screenshots/screenshot1.png)
 
-2. CSV file
 
 ![App Screenshot](https://github.com/airakibul/Medical-ChatBot/blob/main/screenshots/screenshot2.png)
