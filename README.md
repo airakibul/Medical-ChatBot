@@ -174,9 +174,10 @@ You are free to use, modify, and distribute this software with proper attributio
 
 ## Screenshots
 
-Frontend
+Image 1
 
 ![App Screenshot](https://github.com/airakibul/Medical-ChatBot/blob/main/screenshots/screenshot1.png)
 
+Image 2
 
 ![App Screenshot](https://github.com/airakibul/Medical-ChatBot/blob/main/screenshots/screenshot2.png)
